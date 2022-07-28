@@ -1,0 +1,23 @@
+Change Component Footprint: Designator=Y1 Old Footprint=FP-ABLS-MFG New Footprint=FOX-FOXSLF160-20
+Change Component Comment : Designator=Y1 Old Comment=ABLS-8.000MHZ-B2-T New Comment=FOXSLF/160-20
+Change Managed Component Library Link : Designator=Y1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=8EDD44CD-9F6E-4C02-A7A1-3000236F3555 New ItemGUID=2E1CBF39-4C88-4B5E-A113-894CBAB83AF8 Old RevisionGUID=54AA232D-572E-4D1F-A962-D60A04F50370 New RevisionGUID=82C52971-63FA-4CEF-BC38-4F58E7E3226F
+Change component parameters: Designator = "Y1" ("Y1"); Footprint = "FP-ABLS-MFG"; UniqueID = "\GMXATKKK" ("\GMXATKKK")
+Change component parameters (AddParameter): Name = "Case\Package"; Value = "Axial"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.foxonline.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.foxonline.com/pdfs/hc49slf.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "Mar-15"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "0.248 inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "155 degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55 degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "2-Pin Through Hole Device, Body 11.35 x 4.65 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "FOXSLF160-20"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "250 mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "221 kohm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "250 V"; VariantName = "[No Variations]"
